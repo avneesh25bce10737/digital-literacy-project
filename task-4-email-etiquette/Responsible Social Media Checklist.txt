@@ -1,0 +1,22 @@
+Responsible Social Media Checklist
+The "Do's" 
+1.Enable Two-Factor Authentication (2FA): Always use an authenticator app or SMS codes. This is your strongest defense against account hacking and "Identity Theft."
+
+2.The "Grandmother Test": Before posting, ask yourself if you’d be comfortable with a future employer or a family member seeing it. If the answer is "no," don't post it.
+
+3.Verify Before You Share: In an era of deepfakes and misinformation, always check "Free Internship" or "Scholarship" links against official university or government websites before forwarding them.
+
+4.Respect Privacy Boundaries: Always ask for a peer’s permission before tagging them in a photo or video. What is a "fun memory" to you might be a privacy concern for them.
+
+5.Audit Your "Followers" List: Every semester, remove accounts you don’t recognize. Keeping your circle tight reduces the risk of a stranger "scraping" your personal photos for malicious use.
+
+The "Don'ts" 
+1.Don’t Post "Identity Triggers": Never share photos of your Aadhaar card, College ID, or Exam Admit Cards. Even a blurred photo can be used by scammers to harvest your Roll Number or DOB.
+
+2.Don’t Share Real-Time Locations: Avoid "Checking In" to a cafe or library while you are still there. Post your stories after you leave to prevent physical stalking or "Cyber-Stalking."
+
+3.Don’t Click "Login to Vote" Links: Be wary of messages asking you to "Login with Instagram" to vote for a friend in a contest. These are almost always Phishing traps designed to steal your credentials.
+
+4.Don’t Engage with Trolls: If you face harassment or "Cyberbullying," do not argue. Use the Block and Report features immediately to cut off the attacker's access to your profile.
+
+5.Don’t Use Public Wi-Fi for Social Logins: Avoid logging into your accounts at railway stations or public cafes without a VPN. Hackers can "sniff" your data packets and steal your session cookies.
