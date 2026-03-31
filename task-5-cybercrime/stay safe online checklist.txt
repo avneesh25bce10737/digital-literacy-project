@@ -1,0 +1,25 @@
+The 'Stay Safe Online' Checklist: A Student’s Guide
+Being digitally savvy isn't just about using apps; it’s about protecting your identity and your hard-earned money. Follow these 8 actionable steps to stay secure:
+
+The Golden UPI Rule: Always remember that a UPI PIN is only required to SEND money, never to receive it. If someone asks you to enter your PIN to "receive a refund" or "collect a payment," it is a scam.
+
+Verify Before You Scan: Never scan a QR code sent by a stranger on WhatsApp or Olx. Scammers use these codes to trigger "Collect Requests" that drain your account instantly.
+
+Lock Your Biometrics: Use the mAadhaar app to lock your Aadhaar biometrics. This prevents identity thieves from using your fingerprint data for unauthorized SIM swaps or banking transactions.
+
+Use "Student-Strength" Passwords: Move away from simple passwords like Name@123. Use passphrases (e.g., I-Love-Biryani-2026!) and enable Two-Factor Authentication (2FA) on your Instagram, WhatsApp, and College Email accounts.
+
+Audit Your App Permissions: Periodically check which apps have access to your Contacts, Microphone, and Gallery. Malicious "loan apps" or "photo editors" often harvest this data to blackmail students.
+
+Avoid Public Wi-Fi for Banking: Campus or cafe Wi-Fi can be intercepted. Never log into your bank portal or UPI app while connected to public networks; use your mobile data instead.
+
+Check the "S" in HTTPS: Before entering your roll number or credit card details on a website, ensure the URL starts with https:// and has a padlock icon. This ensures your data is encrypted.
+
+Think Before You Click: Be wary of "Free Internship" or "Cashback" links received via SMS or Telegram. These are often phishing attempts designed to steal your login credentials.
+
+If You Are Targeted: How to Report
+If you or a friend loses money or faces cyber harassment, do not delete the evidence (screenshots) and act immediately.
+
+National Helpline: Call 1930 (Available 24/7 across India).
+Official Portal: File a formal complaint at cybercrime.gov.in.
+Local Action: Visit the nearest Cyber Cell at your local police station.
